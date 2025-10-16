@@ -16,10 +16,10 @@ All configurations were built and tested in **Cisco Packet Tracer**, focusing on
 
 | Lab Name | Routing Type | Description |
 |-----------|--------------|--------------|
-| [Static Routing](./static-routing/) | Manual Routing | Routes are manually configured on each router, providing full control but no scalability. |
-| [RIP (Routing Information Protocol)](./rip/) | Dynamic Distance-Vector | Simple dynamic routing using hop count as a metric (RIPv2). |
-| [EIGRP (Enhanced Interior Gateway Routing Protocol)](./eigrp/) | Dynamic Hybrid | Cisco-proprietary protocol offering fast convergence and efficient routing. |
-| [OSPF (Open Shortest Path First)](./ospf/) | Dynamic Link-State | Industry-standard link-state routing protocol with area-based design for scalability. |
+| [Static Routing](./Static_Routing/) | Manual Routing | Routes are manually configured on each router, providing full control but no scalability. |
+| [RIP (Routing Information Protocol)](./RIP/) | Dynamic Distance-Vector | Simple dynamic routing using hop count as a metric (RIPv2). |
+| [EIGRP (Enhanced Interior Gateway Routing Protocol)](./EGRIP/) | Dynamic Hybrid | Cisco-proprietary protocol offering fast convergence and efficient routing. |
+| [OSPF (Open Shortest Path First)](./OSPF/) | Dynamic Link-State | Industry-standard link-state routing protocol with area-based design for scalability. |
 
 ---
 
