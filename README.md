@@ -34,11 +34,34 @@ All configurations were built and tested in **Cisco Packet Tracer**, focusing on
 
 ## ⚙️ Tools Used
 
-- **Cisco Packet Tracer** (version 8.x)
+- **Cisco Packet Tracer** (version 8.2.1)
+
+## ✔ Deliverables
 - **Network Diagrams (.png)**
 - **Routing Configurations (.pkt)**
 
 ---
 
 ## 📂 Repository Structure
+Networking_Labs/
+│
+├── static-routing/
+│ ├── static-routing.pkt
+│ ├── topology.png
+│ └── README.md
+│
+├── rip/
+│ ├── rip.pkt
+│ ├── topology.png
+│ └── README.md
+│
+├── eigrp/
+│ ├── eigrp.pkt
+│ ├── topology.png
+│ └── README.md
+│
+└── ospf/
+├── ospf.pkt
+├── topology.png
+└── README.md
 
