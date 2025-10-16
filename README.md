@@ -43,9 +43,9 @@ All configurations were built and tested in **Cisco Packet Tracer**, focusing on
 ---
 
 ## 📂 Repository Structure
-Networking_Labs/
+Networking_Labs/.
 │
-├── static-routing/
+├── static-routing/.
 │ ├── static-routing.pkt
 │ ├── topology.png
 │ └── README.md
