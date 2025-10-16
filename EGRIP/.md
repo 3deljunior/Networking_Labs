@@ -1,0 +1,24 @@
+
+---
+
+### ⚡ `eigrp/README.md`
+```markdown
+# ⚡ EIGRP Routing Lab
+
+## 🎯 Objective
+Configure EIGRP routing and verify neighbor relationships and learned routes.
+
+## 🧠 Summary
+EIGRP is a Cisco-proprietary hybrid routing protocol that converges quickly and uses advanced metrics (bandwidth & delay).
+
+## 🗺️ Topology
+![EIGRP Topology](topology.png)
+
+## ⚙️ Lab File
+- [Download Packet Tracer File](eigrp.pkt)
+
+## 🧾 Useful Commands
+```bash
+show ip eigrp neighbors
+show ip eigrp topology
+show ip route eigrp
